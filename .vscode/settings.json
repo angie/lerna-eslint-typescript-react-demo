@@ -3,8 +3,7 @@
   "editor.codeActionsOnSave": {},
   "eslint.codeActionsOnSave.mode": "problems",
   "eslint.workingDirectories": [
-    {
-      "directory": "./packages/azure-function-project"
-    }
+    "./packages/azure-function-project",
+    "./packages/create-react-app"
   ]
 }
